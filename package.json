@@ -1,6 +1,6 @@
 {
-  "name": "@greenthumb/custom_faq",
-  "version": "0.1.0",
+  "name": "@volto/custom_faq",
+  "version": "0.0.0",
   "description": "custom_faq: Volto add-on",
   "main": "src/index.js",
   "license": "MIT",
@@ -15,5 +15,15 @@
   },
   "dependencies": {
     "@plone/scripts": "*"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxtrot-dfm1/custom_faq.git"
+  },
+  "author": "folix_f",
+  "bugs": {
+    "url": "https://github.com/foxtrot-dfm1/custom_faq/issues"
+  },
+  "homepage": "https://github.com/foxtrot-dfm1/custom_faq#readme"
 }

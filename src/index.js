@@ -1,5 +1,3 @@
-const applyConfig = (config) => {
-  return config;
-};
+import applyConfig from './config';
 
 export default applyConfig;

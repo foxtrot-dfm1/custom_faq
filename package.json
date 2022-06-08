@@ -1,6 +1,6 @@
 {
-  "name": "@volto/custom_faq",
-  "version": "0.0.0",
+  "name": "volto-custom_faq",
+  "version": "0.0.1",
   "description": "custom_faq: Volto add-on",
   "main": "src/index.js",
   "license": "MIT",
@@ -14,7 +14,8 @@
     "i18n": "rm -rf build/messages && NODE_ENV=production i18n --addon"
   },
   "dependencies": {
-    "@plone/scripts": "*"
+    "@plone/scripts": "*",
+    "@eeacms/volto-blocks-form": "@eeacms/volto-blocks-form"
   },
   "devDependencies": {},
   "repository": {
